@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Experiment 3</string>
+    <string name="app_name">Marks Calculator</string>
     <string name="view_all_marks">VIEW ALL MARKS</string>
     <string name="enter_marks">Update Marks</string>
     <string name="student_marks_collection">STUDENT MARKS COLLECTION</string>

@@ -55,7 +55,7 @@ public class DatabaseHandler extends SQLiteOpenHelper {
         db.close();
     }
 
-    //  Seema Suma
+
     public void deleteMarks(String studentName) {
         SQLiteDatabase db = getWritableDatabase();
         db.execSQL("DELETE FROM " + TABLE_MARKS + " WHERE " + COLUMN_STUDENT_NAME + "=\"" + studentName + "\";");
