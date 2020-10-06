@@ -1,4 +1,4 @@
-Marks Calculator App
+<b>Marks Calculator App</b>
 
 Using this app, a user can:
 1. Input name and subject marks of different students
@@ -8,3 +8,7 @@ Using this app, a user can:
 
 It is a simple app developed in Java and uses SQLite Database to create, delete and retrieve entries.
 
+<b>Screenshots</b>
+
+<img src="screenshots/update_marks.jpg" width=40% height=40%>    <img src="screenshots/view_marks.jpg" width=40% height=40%>
+ 
